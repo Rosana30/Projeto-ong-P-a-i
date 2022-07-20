@@ -2,8 +2,8 @@
 const express = require('express');
 require('dotenv').config()
 const cors = require('cors')
- const gatosRotas = require('./routes/gatosRoutes')
- const db = require("./database/mongoConfig")
+const gatosRotas = require('./routes/gatosRoutes')
+const db = require("./database/mongoConfig")
 // criar a api
 const app = express();
 

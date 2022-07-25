@@ -38,7 +38,7 @@ $ npm run dev
 ## Variáveis de ambiente
 - Na raiz do projeto crie um arquivo _.env_ conforme o arquivo _.env.default_, passando a url do seu banco local.
 
-### Post: Criando perfil de um(a) agricultor/agricultora
+### Post: Criando perfil de um(a) Projeto-ong-P-a-i
 
 ```
 

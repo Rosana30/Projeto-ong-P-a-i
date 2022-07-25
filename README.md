@@ -36,7 +36,7 @@ $ npm install
 $ npm run dev
 
 ## Variáveis de ambiente
-- Na raiz do projeto crie um arquivo _.env_ conforme o arquivo _.env.default_, passando a url do seu banco local.
+- Na raiz do projeto crie um arquivo _.env_ conforme o arquivo passando a url do seu banco local.
 
 ### Post: Criando perfil de um(a) Projeto-ong-P-a-i
 
@@ -72,5 +72,5 @@ ela estava lá ,me falando vai dar certo  Rosana,e por sua paciência em me ensi
 https://github.com/rayanepimentel
 agradeço ao Reprograma por nos proporcionar esse curso tão maravilhoso e ter pessoas  Professoras que nos inspiraram e conhecer pessoas íncriveis em especial A Professora Hannah por ser tão disponivel e acessivel a todas ,A querida Paula alamend Beatriz Analu,e todas as outras Professoras maravilhosas que nos passaram conteúdos íncriveis.também agradeço A psicologa Juliana pelo apoio e  jessica e todas as pessoas que fazem o Reprograma acontecer.
 
-
+https://github.com/rayanepimentel
 

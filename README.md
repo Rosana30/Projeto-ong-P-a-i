@@ -1,7 +1,7 @@
 # Projeto-ong-P-a-i
 
 # Sobre
-A inspiração em criar esse  projeto em   criar uma api para cadastrar todos os gatos da ONG  para adoção e as  pessoas que estão interessada em adotar foi feito  por mim porque  eu também já resgatei aguns gatos  de rua e adotei e levei  pra casa, e dei um novo lar para eles.sempre nas ruas que passo  vejo mutos gatos abandonandos em estados muito debilitados a maioria.as vezes eu levo algumas raçoes e deixo na vasilha pra eles se alimentarem .Por isso que escolhi a ONG P.A.I que também resgatam os animnais das ruas debilitados e também castram para poder adotar .
+A inspiração em criar o Projeto de  uma api para cadastrar todos os gatos da ONG  para adoção e as  pessoas que estão interessada em adotar foi feito  por mim porque  eu também já resgatei aguns gatos  de rua e adotei e levei  pra casa, e dei um novo lar para eles.sempre nas ruas que passo  vejo mutos gatos abandonandos em estados muito debilitados a maioria.as vezes eu levo algumas raçoes e deixo na vasilha pra eles se alimentarem .Por isso que escolhi a ONG P.A.I que também resgatam os animnais das ruas debilitados e também castram para poder adotar .
 
 Fundadores Ângela Cristina Machado fundadora da ONG P.A.I e RUBENS É O PRESIDENTE E Ângela Cristina Machado É  VICE PRESIDENTE EM CABO DE SANTO AGOSTINHO PE.
 

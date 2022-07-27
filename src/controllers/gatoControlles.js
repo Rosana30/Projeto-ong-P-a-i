@@ -33,67 +33,67 @@ const getFindGatos = async (req, res) => {
   //     })
   // }
 
-//   if (idade) {
-//     query.idade = new RegExp(idade, "i");
-//     // filtergatos = filtergatos.filter(currentGatos => currentGatos
-//     //     .idade
-//     //     .includes(idade)
-//     // )
-//   }
+  //   if (idade) {
+  //     query.idade = new RegExp(idade, "i");
+  //     // filtergatos = filtergatos.filter(currentGatos => currentGatos
+  //     //     .idade
+  //     //     .includes(idade)
+  //     // )
+  //   }
 
-//   if (sexo) {
-//     query.sexo = new RegExp(sexo, "i");
-//     // filtergatos = filtergatos.filter(currentGatos => currentGatos
-//     //     .sexo
-//     //     .includes(sexo)
-//     // )
-//   }
+  //   if (sexo) {
+  //     query.sexo = new RegExp(sexo, "i");
+  //     // filtergatos = filtergatos.filter(currentGatos => currentGatos
+  //     //     .sexo
+  //     //     .includes(sexo)
+  //     // )
+  //   }
 
-//   if (local) {
-//     query.local = new RegExp(local, "i");
-//     // filtergatos = filtergatos.filter(currentGatos => currentGatos
-//     //     .local
-//     //     .includes(sexo)
-//     // )
-//   }
+  //   if (local) {
+  //     query.local = new RegExp(local, "i");
+  //     // filtergatos = filtergatos.filter(currentGatos => currentGatos
+  //     //     .local
+  //     //     .includes(sexo)
+  //     // )
+  //   }
 
   //   if (filterGatos.length === 0) {
   //     throw new Error(
   //       "desculpa, mas não foi encontrado nenhum resultado para essa busca"
   //     );
   //   }
-
+console.log("aa")
   try {
     const getAllGatos = await gatoModel.find(query);
+    console.log("entrou que")
     res.status(200).json(getAllGatos);
   } catch (e) {
     res.status(500).json({ message: e.message });
   }
 };
 
-
-
 // Update gato  by the id in the request
 const updateGato = (req, res) => {
   if (!req.body) {
     return res.status(400).send({
-      message: "Data to update!"
+      message: "Data to update!",
     });
   }
 
   const id = req.params.id;
 
-  gatoModel.findByIdAndUpdate(id, req.body, { useFindAndModify: false })
-    .then(data => {
+  gatoModel
+    .findByIdAndUpdate(id, req.body, { useFindAndModify: false })
+    .then((data) => {
       if (!data) {
         res.status(404).send({
-          message: `Cannot update Gato with id=${id}. !`
+          message: `Cannot update Gato with id=${id}. !`,
         });
       } else res.send({ message: "Gato was updated successfully." });
     })
-    .catch(err => {
+    .catch((err) => {
       res.status(500).send({
-        message: "Error updating Gato with id=" + id
+        message: "Error updating Gato with id=" + id,
       });
     });
 };
@@ -102,21 +102,22 @@ const updateGato = (req, res) => {
 const deleteGato = (req, res) => {
   const id = req.params.id;
 
-  gatoModel.findByIdAndRemove(id)
-    .then(data => {
+  gatoModel
+    .findByIdAndRemove(id)
+    .then((data) => {
       if (!data) {
         res.status(404).send({
-          message: `Cannot delete Gato with id=${id}. Maybe Gato was not found!`
+          message: `Cannot delete Gato with id=${id}. Maybe Gato was not found!`,
         });
       } else {
         res.send({
-          message: "Gato was deleted successfully!"
+          message: "Gato was deleted successfully!",
         });
       }
     })
-    .catch(err => {
+    .catch((err) => {
       res.status(500).send({
-        message: "nao foi possivel excluir o gato id=" + id
+        message: "nao foi possivel excluir o gato id=" + id,
       });
     });
 };
@@ -124,15 +125,15 @@ const deleteGato = (req, res) => {
 // Delete todos os gatos from the database.
 const deleteAll = (req, res) => {
   Gato.deleteMany({})
-    .then(data => {
+    .then((data) => {
       res.send({
-        message: `${data.deletedCount} Gatos were deleted successfully!`
+        message: `${data.deletedCount} Gatos were deleted successfully!`,
       });
     })
-    .catch(err => {
+    .catch((err) => {
       res.status(500).send({
         message:
-          err.message || "Some error occurred while removing all Cultivas."
+          err.message || "Some error occurred while removing all Cultivas.",
       });
     });
 };
@@ -156,5 +157,5 @@ module.exports = {
   getFindGatos,
   updateGato,
   deleteGato,
-  deleteAll
+  deleteAll,
 };

@@ -47,6 +47,28 @@ $ npm run dev
 ### Post: Criando perfil de um(a) Projeto-ong-P-a-i
 
 ```
+inserindo informações no isominia
+
+
+rodando o Get, Delete,PUT,update
+
+1º Post https://projeto-ong-pai.herokuapp.com/gatos/create
+{
+     "nome": "Rafaela",
+    "sexo" :"F",
+    "idade": "3",
+    "local":"cabo de santo agostinho"
+    }
+    
+2º Put https://projeto-ong-pai.herokuapp.com/gatos/update/62dc540508a82a4b02fa883c
+
+
+3º Delete https://projeto-ong-pai.herokuapp.com/gatos/excluir/62e069ca2605ac8dbf170b5e
+
+criando as requisições gatos/updateGato, gatos/deleteGato, gatos/getFindGatos
+
+
+
 
 
 

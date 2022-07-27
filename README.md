@@ -29,7 +29,6 @@ Fora de cada protetores põe aí média 10 cada
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/pt-br)
 
-## Router- Você pode testar pelo insomia ou postman.
 
 ## Como rodar
 - na raiz do projeto rode no terminal:
@@ -41,18 +40,43 @@ $ npm install
 //rodar o projeto
 $ npm run dev
 
+```
+
 ## Variáveis de ambiente
 - Na raiz do projeto crie um arquivo _.env_ conforme o arquivo passando a url do seu banco local.
 
-### Post: Criando perfil de um(a) Projeto-ong-P-a-i
 
+## Router
+Você pode testar pelo [insomia](https://insomnia.rest/download) ou [postman](https://www.postman.com/).
+
+### Post: Criando perfil de um(a) gato(a) do Projeto-ong-P-a-i
+
+> //instrução: aqui vc vai na router do gato e passa a rota. <br><br>
+```
+Post: /gatos/create
 ```
 
+- Exemplo <br>
+_Body (json)_
 
+> //instrução: aqui vc vai na models do gato e passa como se estivesse preenchendo no insomia <br><br>
 
+```json
+{
+    "nome": "Miah",
+    "sexo": "Femea",
+    "idade": "10 meses",
+    "local": "Recife-PE"  
+}
+```
+- Exemplo de saída/resposta
 
+> //instrução: aqui vc coloca a saída do insomia, pode ser a imagem/gif o que você preferir <br> <br>
+> //instrução: Agora faça a mesma coisa para as requisições gatos/updateGato, gatos/deleteGato, gatos/getFindGatos <br> <br>
+> //instrução: Quando terminar as rotas `gatos/` faça as rotas de `pessoas/` <br> <br>
 
-Agradecimentos
+# Agradecimentos
+
 Agradeço primeiramente a Deus autor e consumador da nossa Fé.sem ele não conseguiria atingir meus objetivos segundo a minha Família que sempre esteve comigo.aos meus cinco gatos Bruna, Brunely,clara,frederico e ao gato mais novo que resgatei das ruas que se chama   Enrico.
 
 agradeço a minha Querida Mentora Rayane pimentel por sua disponibilidade  em ser minha monitora anjo no momento que mais precisei

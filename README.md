@@ -57,18 +57,6 @@ inserindo informações no isominia
 </div>
 
 
-<div style="display: inline_block">
-  <img src="https://user-images.githubusercontent.com/38411407/181297796-8342a64a-7348-4f35-a1c8-c2afe28b7d79.mp4"/>
-<<img src="https://user-images.githubusercontent.com/38411407/181298625-8951cf82-74cc-42f0-b3e1-c8f8e4f9a0d1.mp4"/>
-</div><br/>
-
-
-
-
-
-
-
-
 
 
 

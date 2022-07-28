@@ -60,6 +60,7 @@ inserindo informações no isominia
 
 
 
+Rodando a Rota dos gatos e das pessoas 
 
 rodando o Get, Delete,PUT,update
 
@@ -76,13 +77,30 @@ rodando o Get, Delete,PUT,update
 
 3º Delete https://projeto-ong-pai.herokuapp.com/gatos/excluir/62e069ca2605ac8dbf170b5e
 
-criando as requisições gatos/updateGato, gatos/deleteGato, gatos/getFindGatos
+4º Put  gatos/updateGato, gatos/deleteGato, gatos/getFindGatos
 
 
+Rodando a Rota das pessoas 
+
+Post https://projeto-ong-pai.herokuapp.com/pessoas/create
+
+{
+    "nome": "enrico silva",
+    "sexo":"M",
+    "idade":"30",
+    "endereco":"Recife",
+    "telefone":"35212150",
+     "email":"enrico2@hotmail.com"
+      }
 
 
+Delete https://projeto-ong-pai.herokuapp.com/pessoas/excluir/62e1dc616b1544a56e678b8e
 
-
+Put https://projeto-ong-pai.herokuapp.com/gatos/update/62dc441675faad80552e85ac
+{
+	"nome": "Bruno",
+		"sexo": "M"
+	}
 
 
 Agradecimentos

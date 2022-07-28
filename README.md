@@ -79,6 +79,9 @@ rodando o Get, Delete,PUT,update
 
 4º Put  gatos/updateGato, gatos/deleteGato, gatos/getFindGatos
 
+5º  Get https://projeto-ong-pai.herokuapp.com/gatos/gato
+
+
 
 Rodando a Rota das pessoas 
 

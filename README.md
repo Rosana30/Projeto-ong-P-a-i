@@ -12,7 +12,7 @@ Início das atividades ONG P.A.I em 10/07/2021
 
 A ong P.A.I e uma instituição não governamental sem fins lucrativos, que realiza seus projetos na causa animal com ajuda de colaboradores ativistas simpatizantes na causa e protetores não tem ajuda municipal.
 
-início dia 21/07/2018 a primeira feira de adoção responsável no município ao qual foram doados mais 40 animais em um só dia.
+A primeira feira de adoção deu início no  dia 21/07/2018  responsável no município ao qual foram doados mais 40 animais em um só dia.
 
 Em cada evento de adoção média e de 15 a 20 animais
 Média 3 felinos 12 caninos

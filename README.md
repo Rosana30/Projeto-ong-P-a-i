@@ -154,10 +154,18 @@ Delete: /pessoas/excluir/:id
 Put: /pessoas/update/:id
 ```
 
-- Exemplo <br>
+- Exemplo de saída/resposta <br> <br>
 
 ```json
-pull
+{
+	
+		"nome": "BrunA",
+		"sexo": "F"
+	
+	}
+
+
+Pull
 ```
 
 - Exemplo de saída/resposta <br> 

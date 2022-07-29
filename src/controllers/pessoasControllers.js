@@ -1,4 +1,4 @@
-const pessoasModel = require("../models/pessoaSchema");
+const PessoasModel = require("../models/pessoaSchema");
 
 const createPessoas = async (req, res) => {
   const { nome, sexo, idade, endereco, telefone, email } = req.body;
@@ -36,7 +36,7 @@ const updatePessoas = (req, res) => {
 
   const id = req.params.id;
 
-  PessoasModel.findByIdAndUpdate(id, req.body, { useFindAndModify: false })
+  pessoasModel.findByIdAndUpdate(id, req.body, { useFindAndModify: false })
     .then((data) => {
       if (!data) {
         res.status(404).send({

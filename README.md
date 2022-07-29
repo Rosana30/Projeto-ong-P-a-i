@@ -1,14 +1,14 @@
-Projeto Final do Curso de Desenvolvimento Back-End da Reprograma - TURMA ON15
+                             Projeto Final do Curso de Desenvolvimento Back-End da Reprograma - TURMA ON15
 
-# Projeto-ong-P-a-i
+                                             # Projeto-ong-P-a-i
 
 # Sobre
 
-A inspiração em criar o Projeto de uma api para cadastrar todos os gatos da ONG para adoção e as pessoas que estão interessada em adotar foi feito por mim porque eu também já resgatei aguns gatos de rua e adotei e levei pra casa, e dei um novo lar para eles.sempre nas ruas que passo vejo mutos gatos abandonandos em estados muito debilitados a maioria.as vezes eu levo algumas raçoes e deixo na vasilha pra eles se alimentarem .Por isso que escolhi a ONG P.A.I que também resgatam os animnais das ruas debilitados e também castram para poder adotar .
+A inspiração em criar o Projeto de uma api para cadastrar todos os gatos da ONG para adoção e as pessoas que estão interessada em adotar foi feito por mim porque eu também já resgatei alguns gatos de rua e adotei e levei pra casa, e dei um novo lar para eles. Sempre nas ruas que passo vejo muitos gatos abandonados e muito debilitados a maioria. Sempre quando eu vejo alguns gatos abandonados perto da minha casa sempre levo algumas raçoes e deixo na vasilha pra eles se alimentarem. Descobri a ONG P.A.I que também resgatam os animais das ruas debilitados e também castram para poder adotar. A ONG pai faz um trabalho incrível nos resgates de gatos e e cachorros nas ruas e isso que me chamou a atenção em fazer o projeto para ajudar a ONG nessa causa tão nobre.
 
 Fundadores Ângela Cristina Machado fundadora da ONG P.A.I e RUBENS É O PRESIDENTE E Ângela Cristina Machado É VICE PRESIDENTE EM CABO DE SANTO AGOSTINHO PE.
 
-início das atividades ONG P.A.I em 10/07/2021
+Início das atividades ONG P.A.I em 10/07/2021
 
 A ong P.A.I e uma instituição não governamental sem fins lucrativos, que realiza seus projetos na causa animal com ajuda de colaboradores ativistas simpatizantes na causa e protetores não tem ajuda municipal.
 
@@ -18,6 +18,7 @@ Em cada evento de adoção média e de 15 a 20 animais
 Média 3 felinos 12 caninos
 Só comigo tem 26 ANIMAIS entre cães e gatos
 Fora de cada protetores põe aí média 10 cada
+
 
 # Projeto-ong-P-a-i - Back-end
 
@@ -176,7 +177,8 @@ Pull
 
 
 # Agradecimentos
-Agradeço primeiramente a Deus autor e consumador da nossa Fé.sem ele não conseguiria atingir meus objetivos segundo a minha Família que sempre esteve comigo.aos meus cinco gatos Bruna, Brunely,clara,frederico e ao gato mais novo que resgatei das ruas que se chama Enrico.
+Agradeço primeiramente a Deus autor e consumador da nossa Fé. Sem ele não conseguiria atingir meus objetivos segundo a minha Família que sempre esteve comigo. aos meus cinco gatos Bruna, Brunely, clara, frederico e ao gato mais novo que resgatei das ruas que se chama Enrico.
+
 <br>
 
 ![rota Update pessoas ](/imagens/WhatsApp%20Image%202022-07-25%20at%2014.43.49%20(1).jpeg)

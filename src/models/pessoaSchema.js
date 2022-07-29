@@ -10,7 +10,7 @@ let PessoaSchema = new Schema({
   sexo: { type: String, required: true },
   idade: { type: String, required: true },
   email: { type: String, required: true },
-  telefone: { type: Number, required: true },
+  telefone:{ type: Number, required: true },
 });
 
 module.exports = mongoose.model("pessoas", PessoaSchema);

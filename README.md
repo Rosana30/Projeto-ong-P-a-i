@@ -151,25 +151,27 @@ Delete: /pessoas/excluir/:id
 ### Put: Atualizar perfil de um(a) usuario(a) do Projeto-ong-P-a-i
 
 ```
-Put: /gatos/update/:id
+Put: /pessoas/update/:id
 ```
 
 - Exemplo <br>
 
 ```json
-{
-  "nome": "Miah Brum"
-}
+pull
 ```
 
-- Exemplo de saída/resposta <br>
-  ![rota Update gato ](/imagens/Gato%20update.JPG)
+- Exemplo de saída/resposta <br> 
+  ![rota Update pessoas ](/imagens/)
+
+  
 
 
 
 # Agradecimentos
 Agradeço primeiramente a Deus autor e consumador da nossa Fé.sem ele não conseguiria atingir meus objetivos segundo a minha Família que sempre esteve comigo.aos meus cinco gatos Bruna, Brunely,clara,frederico e ao gato mais novo que resgatei das ruas que se chama Enrico.
 <br>
+
+
 
 
 agradeço a minha Querida Mentora Rayane pimentel por sua disponibilidade em ser minha monitora anjo no momento que mais precisei

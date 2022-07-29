@@ -179,6 +179,13 @@ Pull
 Agradeço primeiramente a Deus autor e consumador da nossa Fé.sem ele não conseguiria atingir meus objetivos segundo a minha Família que sempre esteve comigo.aos meus cinco gatos Bruna, Brunely,clara,frederico e ao gato mais novo que resgatei das ruas que se chama Enrico.
 <br>
 
+![rota Update pessoas ](/imagens/WhatsApp%20Image%202022-07-25%20at%2014.43.49%20(1).jpeg)
+![rota Update pessoas ](/imagens/WhatsApp%20Image%202022-07-25%20at%2014.43.35%20(2).jpeg)
+![rota Update pessoas ](/imagens/WhatsApp%20Image%202022-07-25%20at%2014.43.32.jpeg)
+![rota Update pessoas ](/imagens/WhatsApp%20Image%202022-07-25%20at%2014.43.36.jpeg)
+
+
+
 
 
 

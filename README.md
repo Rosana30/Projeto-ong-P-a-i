@@ -45,6 +45,12 @@ $ npm run dev
 
 - Na raiz do projeto crie um arquivo _.env_ conforme o arquivo passando a url do seu banco local.
 
+🚧 Melhorias para o futuro
+
+Autenticação, login e senha.
+Testes.
+
+
 ## Router
 
 Você pode testar pelo [insomia](https://insomnia.rest/download) ou [postman](https://www.postman.com/).

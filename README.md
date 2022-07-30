@@ -4,7 +4,7 @@
 
 # Sobre
 
-A inspiração em criar o Projeto de uma api para cadastrar todos os gatos da ONG para adoção e as pessoas que estão interessada em adotar foi feito por mim porque eu também já resgatei alguns gatos de rua e adotei e levei pra casa, e dei um novo lar para eles. Sempre nas ruas que passo vejo muitos gatos abandonados e muito debilitados a maioria. Sempre quando eu vejo alguns gatos abandonados perto da minha casa sempre levo algumas raçoes e deixo na vasilha pra eles se alimentarem. Descobri a ONG P.A.I localizada em cabo de santo agostinho que também resgatam os animais das ruas debilitados e também castram para poder adotar. A ONG pai faz um trabalho incrível nos resgates de gatos e e cachorros nas ruas e isso que me chamou a atenção em fazer o projeto para ajudar a ONG nessa causa tão nobre.
+A inspiração em criar o Projeto de uma api para cadastrar todos os gatos da ONG para adoção e as pessoas que estão interessada em adotar foi feito por mim porque eu também já resgatei alguns gatos de rua e adotei e levei pra casa, e dei um novo lar para eles. Sempre nas ruas que passo vejo muitos gatos abandonados e muito debilitados a maioria. Sempre quando eu vejo alguns gatos abandonados perto da minha casa sempre levo  raçoes e deixo na vasilha pra eles se alimentarem. Descobri a ONG P.A.I localizada em cabo de santo agostinho que também resgatam os animais das ruas debilitados e também castram gatos para poder adotar. A ONG pai faz um trabalho incrível nos resgates de gatos e e cachorros nas ruas e isso que me chamou a atenção em fazer o projeto para ajudar a ONG nessa causa tão nobre.
 
 Fundadores Ângela Cristina Machado fundadora da ONG P.A.I e RUBENS É O PRESIDENTE E Ângela Cristina Machado É VICE PRESIDENTE EM CABO DE SANTO AGOSTINHO PE.
 

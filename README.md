@@ -19,6 +19,7 @@ Média 3 felinos 12 caninos
 Só comigo tem 26 ANIMAIS entre cães e gatos
 Fora de cada protetores põe aí média 10 cada
 
+A Organização Mundial da Saúde estima que só no Brasil existam mais de 30 milhões de animais abandonados, entre 10 milhões de gatos e 20 milhões de cães.
 
 # Projeto-ong-P-a-i - Back-end
 
